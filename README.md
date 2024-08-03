@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on projek android
+- 🔭 I’m currently working on android projek
 - 🌱 I’m currently learning figma
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
